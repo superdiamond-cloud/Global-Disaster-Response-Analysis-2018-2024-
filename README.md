@@ -1,5 +1,10 @@
 # Global-Disaster-Response-Analysis-2018-2024-
 This dataset captures global disaster events reported between 2018 and 2024, including details on disaster types, affected countries, severity, casualties, and economic impact.The dataset enables analysis of disaster management and the relationship between disaster intensity, response quality, and recovery duration across different regions.
+
+![Image](https://github.com/user-attachments/assets/f0ddc1d2-c6dc-49a8-b437-57926ea63d43)
+
+![Image](https://github.com/user-attachments/assets/55f019cb-6261-4be0-9989-ab3c4766a907)
+
 # Overview
 
 This project analyzes global disaster response data from 2018 to 2024 to evaluate how response efficiency influences recovery duration, human casualties, and economic losses.
