@@ -59,6 +59,37 @@ Conducted exploratory data analysis using pivot tables
 
 Visualized trends and insights with Excel charts
 
+
+## Objective Question 1 — Disaster Patterns
+Which disaster types occur most frequently, and how do their occurrences vary across countries and over time (2018–2024)?
+Why it matters:Identifies priority disaster types and high-risk regions.
+
+## Objective Question 2 — Human Impact
+Which countries experience the highest human impact in terms of casualties?
+Why it matters:Shows where disasters are most deadly.
+
+## Objective Question 3 — Economic Impact & Funding
+Do disaster types with higher economic losses receive proportionate levels of aid, or are there systematic funding gaps?
+Why it matters:Evaluates fairness and efficiency of disaster aid allocation.
+
+## Objective Question 4 — Response Performance
+How does response time and response efficiency vary across disaster types and regions?
+Why it matters:Measures operational effectiveness of disaster management systems.
+
+
+### OBSERVATIONS.
+
+1. Landslide is the ost frequent disaster over the years, their occurence varies accross the countries over 2018-2024.
+
+2. Brazil is the country that recorded highest number of casualties, brazil also top the chart of  High and Extreme severity grade categories. however,,Turkey top the chart of the Medium severity grade while Brazil also top the chart of Low severity grade categories. this simply means the number of casualties does not depend on the severity index of each countries.
+
+3. There is obviously a wide funding gap as  all disasters recieves a far less than 10 percent in aid amount.
+
+4. Volcanic eruptions receive the fastest average response times, likely due to improved monitoring and early-warning systems.
+Floods experience the slowest response times, reflecting their wide geographic spread and logistical challenges.
+Tornadoes exhibit a response–recovery mismatch: despite relatively efficient response, recovery periods remain long due to infrastructure damage.
+
+
 #### Key Findings
 
 Faster response times are generally associated with shorter recovery durations
